@@ -9,6 +9,8 @@ djangorestframework
 django-rest-swagger
 django-rest-auth
 
+django-redis-cache
+
 django-celery-beat
 django-celery-results
 
